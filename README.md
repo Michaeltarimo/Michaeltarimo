@@ -1,45 +1,33 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://Michaeltarimo.github.io"><img width="80%" alt="Hello, I'm Michael. I love computers!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate Software developer from Tanzania
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Founder at [Mbegu Africa](http://mbegu.africa/) & [Chui Network](http://chui.network/)
+- 💼 Co-founder at [1010 AI LAB](http://1010ai.io/)
+- 🎓 Medical Doctor and Software Developer
+- ❤️ I love writing HTML, CSS, PHP, Javascript, Python, and building fun experiments on type-level
+- 🌱 Currently exploring advanced computer engineering concepts and human genetics
+- 💬 Ask me about anything [here](https://github.com/Michaeltarimo/Michaeltarimo/issues)   
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Michaeltarimo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Michaeltarimo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Michael Tarimo's github stats" /></a> | <a href="https://github.com/Michaeltarimo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaeltarimo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/Michaeltarimo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michaeltarimo&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/Michaeltarimo/Michaeltarimo.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Michaeltarimo&repo=Michaeltarimo.github.io&theme=buefy" />
 </a>
 
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://twitter.com/gutoshiX">
+  <img align="right" alt="Michael Tarimo | Twitter" width="21px" src="https://raw.githubusercontent.com/Michaeltarimo/Michaeltarimo/master/assets/twitter.svg" />
 </a>
