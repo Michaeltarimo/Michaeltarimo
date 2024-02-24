@@ -1,4 +1,5 @@
-<p align="center"><a href="https://Michaeltarimo.github.io"><img width="80%" alt="Hello, I'm Michael. I love computers!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">👋 Hello, I'm Michael! I'm passionate about computers and technology. Check out my profile <a href="https://Michaeltarimo.github.io">here</a>.</p>
+
 
 <br />
 
