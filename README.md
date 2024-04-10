@@ -1,4 +1,4 @@
-<p align="center">👋 Hello, I'm Michael! I'm passionate about computers and technology. Check out my profile <a href="https://Michaeltarimo.github.io">here</a>.</p>
+<p align="center">👋 Hello, I'm Michael! I'm passionate about computers and technology. Check out my profile <a href="https://gutoshi.vercel.app">here</a>.</p>
 
 
 <br />
