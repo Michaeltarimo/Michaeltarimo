@@ -7,7 +7,7 @@ I'm a self-taught passionate Software developer from Tanzania
 
 **About me**
 
-- 💼 Founder at [Mbegu Africa](http://mbegu.africa/) & [Chui Network](http://chui.network/)
+- 💼 Founder at [Seedbase](http://mbegu.africa/) & [Chui Network](http://chui.network/)
 - 💼 Co-founder at [1010 AI LAB](http://1010ai.io/)
 - 🎓 Medical Doctor and Software Developer
 - ❤️ I love writing HTML, CSS, PHP, Javascript, Python, and building fun experiments on type-level
