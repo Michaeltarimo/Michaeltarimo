@@ -14,7 +14,6 @@ I'm a self-taught passionate Software developer from Tanzania
 - 🌱 Currently exploring advanced computer engineering concepts and human genetics
 - 💬 Ask me about anything [here](https://github.com/Michaeltarimo/Michaeltarimo/issues)   
 
-| <a href="https://github.com/Michaeltarimo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Michaeltarimo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Michael Tarimo's github stats" /></a> | <a href="https://github.com/Michaeltarimo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaeltarimo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <a href="https://twitter.com/gutoshiX">
