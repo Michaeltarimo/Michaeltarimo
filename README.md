@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [tarimo.vercel.app](tarimo.vercel.app)
+- 👨‍💻 All of my projects are available at [michaeltarimo.com](michaeltarimo.com)
 
 - 💬 Ask me about **React, JavaScript, Nodejs, ReactNative, Expo Go**
 
