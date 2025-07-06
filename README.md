@@ -10,13 +10,13 @@
 
 - 💬 Ask me about **React, JavaScript, Nodejs, ReactNative, Expo Go**
 
-- 📫 How to reach me **michael@rezour.com**
+- 📫 How to reach me **michael@seedbase.africa**
 
 - ⚡ Fun fact **I'm a medical doctor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dr-michael-tarimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dr-michael-tarimo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/michaeltarimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dr-michael-tarimo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
